@@ -1,4 +1,10 @@
-# Listing Desk — Privacy Policy
+# Listing Desk privacy policy
+
+The privacy policy for Listing Desk, a private, self-hosted tool one seller uses to prepare their own eBay listings. eBay's developer programme requires a published policy; this page is it.
+
+This repository holds only this policy and its licence. The tool and its source code are private.
+
+---
 
 _Last updated: 4 September 2026_
 
@@ -84,3 +90,9 @@ Because the tool holds no data about you, there is unlikely to be a basis for su
 ## 11. Contact
 
 Raise an issue on this repository.
+
+---
+
+## Licence
+
+The text of this policy is released under [CC0 1.0](LICENSE). Reuse it freely; check every statement against your own tool before you do.
