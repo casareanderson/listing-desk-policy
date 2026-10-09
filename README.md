@@ -96,3 +96,5 @@ Raise an issue on this repository.
 ## Licence
 
 The text of this policy is released under [CC0 1.0](LICENSE). Reuse it freely; check every statement against your own tool before you do.
+
+If this is useful to you, [buy me a coffee](https://buymeacoffee.com/iamc_tech) ☕
